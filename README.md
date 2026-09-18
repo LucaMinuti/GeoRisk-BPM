@@ -12,7 +12,7 @@ A hazard band can't tell two buildings in the same zone apart, doesn't update as
 
 ## Project status
 
-Business plan and technical architecture developed as part of the *Business and Project Management* course, MSc in Artificial Intelligence and Data Engineering — University of Pisa (A.Y. 2025/2026). Conceptual/architectural design; no trained model or implementation yet.
+Business plan and technical architecture developed as part of the *Business and Project Management* course, MSc in Artificial Intelligence and Data Engineering — University of Pisa (A.Y. 2025/2026). 
 
 ## Sources
 
